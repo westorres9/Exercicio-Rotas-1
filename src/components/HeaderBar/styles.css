@@ -1,0 +1,13 @@
+header {
+    background-color: var(--bg-red);
+    height: 80px;
+    color: #FFF;
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
